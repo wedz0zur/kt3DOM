@@ -1,0 +1,70 @@
+.block{
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3px;
+}
+
+
+
+.book{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(250, 17, 17);
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+
+
+
+button{
+    width: 24px;
+    height: 22px;
+}
+
+
+
+
+.red{
+    height: 100%;
+    width: 20px;
+    background-color: rgb(71, 30, 30);
+    margin-right: 10px;
+}
+
+
+
+
+.punc{
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 3px;
+}
+
+
+
+
+.punct3{
+    display: flex;
+    width: 220px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+    margin-top: 3px;
+}
+
+
+
+.active{
+    visibility: hidden;
+}
+
+.ccc{
+    display: none;
+}
